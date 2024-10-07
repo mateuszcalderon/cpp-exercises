@@ -3,7 +3,7 @@
 
 int main()
 {
-    int lastDigit, n, number, reverse;
+    int last_digit, n, number, reverse;
     
     std::cout << "Number to Check = ";
     std::cin >> number;
@@ -12,20 +12,20 @@ int main()
     
     do
     {
-        lastDigit = number % 10;
-        reverse = (reverse * 10) + lastDigit;
+        last_digit = number % 10;
+        reverse = (reverse * 10) + last_digit;
         number = number / 10;
     }
     while(number != 0);
     
     if(n == reverse && n > 0)
     {
-        std::cout << n << " is a Palindrome Number.";
+        std::cout << n << " is a palindrome number.";
     }
     else
     {
-        std::cout << n << " is NOT a Palindrome Number.";
+        std::cout << n << " is NOT a palindrome number.";
     }
-    
+
     return 0;
 }
