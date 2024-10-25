@@ -15,7 +15,7 @@ Here is some key ideas used to solve the problems:
   * Operators
   * Pointers
 
-These are just a few concepts that might help you to have a good code understanding. It is recommended a basic knowledge in subjects like input/output, variables and data types before diving into more complex topics. A solid grasp of these simple fundamentals will set a strong foundation for mastering advanced C++ programming concepts and techniques.
+These are just a few concepts that might help you to have a good code understanding. It is recommended a basic knowledge in subjects like input/output, variables and data types before diving into more complex topics. A solid grasp of these simple fundamentals will set a strong foundation for mastering advanced C++ programming concepts and techniques. <br />
 Check it out the [GeeksforGeeks C++ Exercises list](https://www.geeksforgeeks.org/cpp-exercises/) to see more important details about how to solve these problems.
 
 ##
