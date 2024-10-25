@@ -15,6 +15,6 @@ Some key ideas used to solve the problems so far:
 These are just a few concepts that might help you to have a good code understanding. It is recommended a basic knowledge in subjects like input/output and variables and data types before diving into more complex topics. A solid grasp of these simple fundamentals will set a strong foundation for mastering advanced C++ programming concepts and techniques. 
 
 ##
-To develop and run all codes I am utilizing the online compiler [OnlineGDB.com](https://www.onlinegdb.com/online_c++_compiler).
+To develop and run all codes I am utilizing the online compiler/debugger IDE [OnlineGDB.com](https://www.onlinegdb.com/online_c++_compiler).
 
 This project follows the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html). If you have any advice or tips related to the style guide, please feel free to share!
