@@ -3,29 +3,31 @@
 </div>
 
 <div align="center">
-  <h3>34 C++ exercises from GeeksforGeeks I solved to boost my programming skills.</h3>
+  <h3>C++ Programming Exercises - Solutions from GeeksforGeeks</h3>
 </div>
 
-This repository contains solutions to 34 C++ exercises from GeeksforGeeks, designed to help sharpen programming skills.
+This repository contains my solutions to 34 C++ exercises sourced from GeeksforGeeks, aimed at improving my programming skills and deepening my understanding of core C++ concepts.
 
-#### Key Concepts Used:
+#### Key Concepts Covered:
   - Arrays
-  - Control Structures
+  - Control Structures (if, loops)
   - Functions
   - Operators
   - Pointers
 
-These exercises will help you build a strong foundation in C++ programming. It is recommended to have a basic knowledge of input/output, variables and data types before diving into more complex topics. A solid grasp of these simple fundamentals will set a strong foundation for mastering advanced C++ programming concepts and techniques.<br/>
+These exercises serve as an excellent starting point for anyone looking to strengthen their grasp of C++ fundamentals. Before diving into these challenges, it's recommended to have a basic understanding of variables, data types, and input/output operations. A solid foundation in these areas will make it easier to tackle more advanced concepts as you progress.<br/>
 
-Check out the [GeeksforGeeks C++ Exercises list](https://www.geeksforgeeks.org/cpp-exercises/) to see more important details about how to solve these problems.
+## Resources:
+For a comprehensive roll of the exercises and additional details, refer to the [GeeksforGeeks C++ Exercises](https://www.geeksforgeeks.org/cpp-exercises/) list.
 
 ## Development Environment:
-To develop and run all codes I am used the online compiler/debugger IDE [OnlineGDB.com](https://www.onlinegdb.com/online_c++_compiler).
+To develop and test the solutions, I used the online IDE [OnlineGDB.com](https://www.onlinegdb.com/online_c++_compiler), which offers an easy-to-use compiler and debugger for C++.
 
-## Coding Style:
-This project follows the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html). If you have any advice or tips related to the style guide, please feel free to share!
+## Coding Standards:
+This project follows the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html). Feel free to suggest improvements or share tips related to coding style.
 
-## Contact me:
+## Contact:
+Feel free to reach out to me with any questions, suggestions, or feedback!<br/>
 [![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/mateuszcalderon/)
 [![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/mateuszcalderonreis/)
 [![GitHub](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/github.svg)](https://github.com/mateuszcalderon)
