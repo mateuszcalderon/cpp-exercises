@@ -1,9 +1,9 @@
-<div align="center">
-  <h1><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="60" width="60"></h1>
-</div>
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="60" width="60" style="margin-right: 20px;">
+</p>
 
 <div align="center">
-  <h3>C++ Programming Exercises - Solutions from GeeksforGeeks</h3>
+  <h1>C++ Programming Exercises - Solutions from GeeksforGeeks</h3>
 </div>
 
 This repository contains my solutions to 34 C++ exercises sourced from GeeksforGeeks, aimed at improving my programming skills and deepening my understanding of core C++ concepts.
