@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>C++ Programming Exercises - Solutions from GeeksforGeeks</h3>
+  <h1>C++ Programming Exercises - Solutions from GeeksforGeeks</h1>
 </div>
 
 This repository contains my solutions to 34 C++ exercises sourced from GeeksforGeeks, aimed at improving my programming skills and deepening my understanding of core C++ concepts.
